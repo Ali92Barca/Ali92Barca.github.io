@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ali92barca.github.io/NuvioTV-Cinemana/sitemap.xml
+Sitemap: https://ali92barca.github.io/NuvioTV-Cinemana/sitemap.txt
